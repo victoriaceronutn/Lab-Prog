@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1556290302 source:c:\users\alumno\desktop\clase09\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1556290263 c:\users\alumno\desktop\clase09\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556289739 source:c:\users\alumno\desktop\clase09\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1556290304 source:e:\utn\programacion\abm productos\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1556290264 e:\utn\programacion\abm productos\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556290344 source:e:\utn\programacion\abm productos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
