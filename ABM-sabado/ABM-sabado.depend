@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1556998324 source:c:\users\mellis\desktop\abm-sabado\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1556998286 c:\users\mellis\desktop\abm-sabado\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556998330 source:c:\users\mellis\desktop\abm-sabado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
