@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1556991612 source:c:\users\mellis\desktop\abm  5\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556993662 source:c:\users\mellis\desktop\abm  5\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"input.h"
+
+1556991635 c:\users\mellis\desktop\abm  5\empleados.h
+
+1556991659 c:\users\mellis\desktop\abm  5\input.h
+
+1556991557 source:c:\users\mellis\desktop\abm  5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"empleados.h"
+
