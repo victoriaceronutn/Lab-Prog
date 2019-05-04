@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557012915 source:c:\users\mellis\desktop\almuerzo\empleado.c
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557012915 c:\users\mellis\desktop\almuerzo\empleado.h
+
+1557012915 source:c:\users\mellis\desktop\almuerzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
