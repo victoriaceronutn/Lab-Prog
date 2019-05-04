@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556995234 source:c:\users\mellis\desktop\abm 6\empleado.c
+	"empleado.h"
+
+1556995434 c:\users\mellis\desktop\abm 6\empleado.h
+
+1556995214 source:c:\users\mellis\desktop\abm 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"empleado.h"
+
