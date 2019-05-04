@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1556984833 source:c:\users\mellis\desktop\abm 3\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"input.h"
+	"empleado.h"
+
+1556984912 c:\users\mellis\desktop\abm 3\input.h
+
+1556984859 c:\users\mellis\desktop\abm 3\empleado.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+
+1556984891 source:c:\users\mellis\desktop\abm 3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556984793 source:c:\users\mellis\desktop\abm 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"input.h"
+	"empleado.h"
+
