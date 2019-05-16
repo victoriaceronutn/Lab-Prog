@@ -3,31 +3,15 @@
 #include <string.h>
 #include "estudios.h"
 #include "peliculas.h"
-
-#define T 6
 int main()
 {
-    eEstudio listaEstudios[T];
-    ePelicula listaPeliculas[T];
+    ePelicula UnaPelicula;
+    strcpy(UnaPelicula.titulo," Rompe Ralf")  ;
 
-    inicializarEstudio(listaEstudios, T);
-    harcodearEstudio(listaEstudios);
+    eEstudio UnEstudio;
+    strcpy(UnEstudio.nombre,"disney")  ;
 
-    inicializarPelicula(listaPeliculas, T);
-    harcodearPelicula(listaPeliculas);
-   // mostrarEstudioConPelicilas(listaEstudios, T, listaPeliculas, T);
-    mostrarPeliculasConEstudios(listaPeliculas,T,listaEstudios,T);
-    /*
-
-    mostrarListaEstudios(listaEstudios, T);
-
-    cargarEstudio(listaEstudios, T);
-    mostrarListaEstudios(listaEstudios, T);
-    modificarEstudio(listaEstudios, T, 0);
-    mostrarListaEstudios(listaEstudios, T);
-    borrarEstudio(listaEstudios, T, 0);
-    mostrarListaEstudios(listaEstudios, T);*/
-
+    printf("el estudio es %s  y la pelicula es %s ",UnEstudio.nombre, UnaPelicula.titulo);
 
     return 0;
 }
